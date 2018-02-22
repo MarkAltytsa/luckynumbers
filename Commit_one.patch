@@ -1,0 +1,15 @@
+Index: src/com/company/Main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/com/company/Main.java	(revision 7e3f9c62cbcef5d3a18ad68be8f4a6c8b27291e0)
++++ src/com/company/Main.java	(date 1519205535296)
+@@ -28,6 +28,7 @@
+         }catch (Exception ex){
+             System.out.println(ex.getMessage());
+         }
++        System.out.println();
+         System.out.println("qwerty");
+ 
+     }
