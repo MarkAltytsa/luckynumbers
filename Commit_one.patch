@@ -10,6 +10,7 @@ Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
              System.out.println(ex.getMessage());
          }
 +        System.out.println();
+asdasd
          System.out.println("qwerty");
  
      }
